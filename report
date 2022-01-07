@@ -1,0 +1,44 @@
+A prediction of what types of organism will thrive and why you have that prediction
+The average cooperation mean for each type of organism and the average of averages.
+Whether or not the results support your prediction and why.
+
+1. Size 10: 1 cooperators, 9 defectors, 0 partialCooperators
+    Prediction: I feel the defectors are more likely to thrive becasue the copperator will share its
+                energy but the defectors will not.
+    Results: Mean Cooperation Probability = 0.0
+    I believe the results support my prediction because the defectors are more likely to thrive
+
+2. Size 10: 9 cooperators, 1 defectors, 0 partialCooperators
+    Prediction: I feel the cooperators are more likely to thrive becasue the copperator will share its
+                energy and will reproduce.
+    Results: Mean Cooperation Probability = 0.8
+    I believe the results support my prediction even though not all the time cooperatorsthrive but most of the time
+
+3. Size 10: 4 cooperators, 3 defectors, 3 partialCooperators
+    Prediction: I feel the cooperators are more likely to thrive becasue the copperator will share its
+                energy and will reproduce.
+    Results: Mean Cooperation Probability = 0.5
+    the results don't support my prediction because the partialCooperators are more likely to thrive
+
+4. Size 100: 1 cooperators, 99 defectors, 0 partialCooperators
+    Prediction: I feel the defectors are more likely to thrive becasue the copperator will share its
+                energy but the defectors will not.
+    Results: Mean Cooperation Probability = 0.0
+    I believe the results support my prediction because the defectors are more likely to thrive
+
+5. Size 100: 99 cooperators, 1 defectors, 0 partialCooperators
+    Prediction: I feel the cooperators are more likely to thrive becasue the copperator will share its
+                energy and will reproduce.
+    Results: Mean Cooperation Probability = 0.9
+    I believe the results support my prediction even though not all the time cooperatorsthrive but most of the time
+
+6. Size 100: 44 cooperators, 33 defectors, 33 partialCooperators 
+    Prediction: I feel the cooperators are more likely to thrive becasue the copperator will share its
+                energy and will reproduce.
+    Results: Mean Cooperation Probability = 0.027727273
+    the results don't support my prediction because the partialCooperators and the defectors thrived more while the cooperators did not
+
+
+From all the experiments conducted I feel that the defectors thrive the most because the cooperators share the energy ith them and they
+reproduce. However, the copperators can only reproduce if they receive enough energy from each other. The partialCooperators are more tricky but I feel they
+lean to the defectors side more as they thrive.
